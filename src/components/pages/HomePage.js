@@ -28,7 +28,8 @@ function CareerContent() {
             <h2 className="title">Career</h2>
             <p>Join Our Team at ABC Software</p>
             <p>Are you passionate about software development? Do you thrive in a dynamic environment where innovation is encouraged? If so, consider joining the ABC Software team! We are always on the lookout for talented individuals who are eager to contribute their skills and creativity. Explore our current openings and take the next step in your career with us.</p>
-            <p>To apply, please email your resume to hr@abcsoftware.com</p>
+            <p>To apply, please 
+             email your resume to hr@abcsoftware.com</p>
         </div>
     );
 }
