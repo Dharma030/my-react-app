@@ -28,7 +28,9 @@ export default function App() {
 
 const Footer = () => {
     return (
-        <p className="text-center" style={ FooterStyle }>Designed & Coded by Dharma</p>
+        <div className="footer-container">
+            <p className="text-center" style={ FooterStyle }>Designed & Coded by Dharma</p>
+        </div>
     )
 }
 

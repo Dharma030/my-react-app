@@ -40,7 +40,7 @@ function ProductContent() {
             <h2 className="title">Product</h2>
             <p>Discover Chat Application</p>
             <p>Chat Application is a comprehensive messaging platform designed to streamline communication and collaboration within teams. With features such as real-time messaging, file sharing, and video conferencing, Chat Application offers a seamless communication experience for businesses of all sizes. Whether you're a startup or a large enterprise, Chat Application is tailored to meet your communication needs. Explore its capabilities and see how it can transform your team's workflow.</p>
-            <a href="https://polite-kheer-962dfa.netlify.app" target="_blank" rel="noopener noreferrer" className="primary-button">Open Chat Application</a>
+            <a href="https://dashing-scone-86c79a.netlify.app/" target="_blank" rel="noopener noreferrer" className="primary-button">Open Chat Application</a>
         </div>
     );
 }
